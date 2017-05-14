@@ -1,0 +1,88 @@
+# Collection of links to cool web apps for code studying, techniques, tips and tricks
+
+## Single page apps with Virtual Dom, yo-yo, Choo
+
+- Feross’s webtorrent: https://github.com/feross/webtorrent-desktop ★
+- Feather-app, WebWorker, state, actions, virtual-dom: https://github.com/HenrikJoreteg/feather-app/tree/master/src
+- Nolan Lawson’s Pokedex: https://github.com/nolanlawson/pokedex.org/, 
+http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
+- Substack’s chatwizard: https://github.com/substack/chatwizard
+- Substack’s simple SPA example with `virtual-dom` + `hyperx` + `main-loop`: https://github.com/substack/training/blob/master/web-dev-whirlwind/example/dom/hyperx-vdom/main.js
+- Small single page React app hosted on Github Pages: https://github.com/rafrex/spa-github-pages
+- Choo + Socket.io simple chat app: https://github.com/notenoughneon/nekocafe
+- Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
+
+## Simple JS examples
+
+- Chrome extension (calls to the main API, use of i18n): https://github.com/pepelsbey/contenteditable/blob/master/background.js
+- Brexit poll Slack bot: https://gist.github.com/ajfisher/2361c4fd200996a6a41272cad54b2fd0
+
+## Build tools
+
+- NPM scripts: https://github.com/feross/studynotes/blob/master/package.json#L119-L137
+- https://github.com/nolanlawson/pokedex.org/blob/master/bin/build.js
+- Task automation with NPM run: http://substack.net/task_automation_with_npm_run
+- Bundle and minify easily with Browserify, Webpack or Rollup: https://github.com/hyperapp/hyperapp/wiki/Hyperx#setup
+
+## JS Libs
+
+- Safe JSON.parse, object to string: https://github.com/davidmarkclements/fast-safe-stringify
+- Tiny event emitter: https://github.com/scottcorgan/tiny-emitter
+
+## Small helpler interface libs
+
+- Create split view panes: http://nathancahill.github.io/Split.js/
+- Smooth scrolling: http://callmecavs.com/jump.js/
+- Lazy loading images: https://github.com/callmecavs/layzr.js
+- Search, sort, filter: http://www.listjs.com
+- Filtering soring: https://github.com/patrickkunka/mixitup
+- Manipulate text by letters, words, sentences: http://julian.com/research/blast/
+- Dates (like moment.js), nice code organization — small functions, tests: https://github.com/date-fns/date-fns/tree/master/src
+- Multi range for `input type="range"` http://leaverou.github.io/multirange/
+- Good parallax: https://github.com/GianlucaGuarini/parallax
+- Format data in input (card number, phone number): http://nosir.github.io/cleave.js/
+- Put dots with tooltips on images (like LabelMaker): https://codecanyon.net/item/visual-composer-addon-image-hotspot-with-tooltip/8729185
+- CSS-only tooltips: https://github.com/kazzkiq/balloon.css :tada:
+- CSS-only slider https://voltra.co/
+- Dragable drid JS, Packery: https://packery.metafizzy.co/; persistant order: http://codepen.io/desandro/pen/PZrXVv, https://github.com/metafizzy/packery/issues/337
+
+## JavaScript
+
+- JS Tips: https://github.com/loverajoel/jstips
+- funfunfunction short & fun videos (#gold):
+  - Composition over Inheretance: https://www.youtube.com/watch?v=wfMtDGfHWpA
+  - Factory functions in JavaScript: https://www.youtube.com/watch?v=ImwrezYhw4w
+- Simple browser test with Selenium and Tape: https://gist.github.com/patrickarlt/931b129598703eed4dda
+
+## Layout, CSS
+- Min CSS framework (995 bytes, Bootstrap-like, grids, inputs): http://mincss.com/index.html
+- Clever column usage in a blog post: http://book.glvrd.ru/indesign/
+- Social meta tags generator: https://autonome.github.io/silobuster/
+- Full viewport width images (hipsta) inside a fixed width container: https://css-tricks.com/full-width-containers-limited-width-parents/
+- Google Fonts pairs: http://digitalsynopsis.com/design/best-google-font-combinations-typeface-pairings/
+
+## SVG
+
+- SVG animations: https://github.com/maxwellito/vivus
+- SVG icons sprite usage live example: https://voltra.co/
+
+## Polyfills
+- `object-fit`, with video support: https://github.com/jonathantneal/fitie
+- `object-fit`, better, but images only: https://github.com/bfred-it/object-fit-images
+- Pretty select dropdown: http://code.octopuscreative.com/fancyselect/, https://select2.github.io/, https://github.com/filamentgroup/select-css (last one is just the select thing, not dropdown)
+
+## Templating
+- Marko: https://github.com/marko-js/marko
+
+## WordPress
+- Advanced Custom Fields: custom fields, option pages, repeaters, very flexible: http://advancedcustomfields.com
+- Types, for custom post types, custom taxonomies and custom fields: https://wordpress.org/plugins/types/screenshots/
+
+## Accessability
+- 7 things you need to know: https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.7nqvzajev
+- Automated accessability testing: https://github.com/pa11y/pa11y
+
+## Nice Blog Layouts
+- http://zaytsev.io/blog
+- http://cherenkevich.com
+- http://destroytoday.com
