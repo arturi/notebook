@@ -55,6 +55,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Simple browser test with Selenium and Tape: https://gist.github.com/patrickarlt/931b129598703eed4dda
 
 ## Layout, CSS
+
 - Min CSS framework (995 bytes, Bootstrap-like, grids, inputs): http://mincss.com/index.html
 - Clever column usage in a blog post: http://book.glvrd.ru/indesign/
 - Social meta tags generator: https://autonome.github.io/silobuster/
@@ -65,6 +66,8 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 - SVG animations: https://github.com/maxwellito/vivus
 - SVG icons sprite usage live example: https://voltra.co/
+- SVG flat company logos: http://konpa.github.io/devicon/
+- ★ How to use SVG icons: https://fvsch.com/code/svg-icons/how-to/#section-adding
 
 ## Polyfills
 - `object-fit`, with video support: https://github.com/jonathantneal/fitie
