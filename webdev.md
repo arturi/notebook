@@ -89,3 +89,6 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - http://zaytsev.io/blog
 - http://cherenkevich.com
 - http://destroytoday.com
+
+## NPM tools
+- Cost of modules: https://cost-of-modules.herokuapp.com
