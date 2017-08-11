@@ -1,4 +1,4 @@
-# Collection of links to cool web apps for code studying, techniques, tips and tricks
+# Collection of tips, tricks & cool web apps for code studying
 
 ## Single page apps with Virtual Dom, yo-yo, Choo
 
