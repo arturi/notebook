@@ -92,3 +92,5 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 ## NPM tools
 - Cost of modules: https://cost-of-modules.herokuapp.com
+
+Show recent Instagram posts on website: https://ifttt.com/applets/65778p-saves-your-instagrams-to-rows-in-a-google-drive-spreadsheet, jlord.us/blog
