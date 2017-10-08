@@ -53,6 +53,8 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
   - Composition over Inheretance: https://www.youtube.com/watch?v=wfMtDGfHWpA
   - Factory functions in JavaScript: https://www.youtube.com/watch?v=ImwrezYhw4w
 - Simple browser test with Selenium and Tape: https://gist.github.com/patrickarlt/931b129598703eed4dda
+- Russian and English typograph: https://github.com/typograf/typograf
+- Responsive tables: https://github.com/filamentgroup/tablesaw/blob/master/README.md
 
 ## Cool docs
 
@@ -90,6 +92,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 ## WordPress
 - Advanced Custom Fields: custom fields, option pages, repeaters, very flexible: http://advancedcustomfields.com
 - Types, for custom post types, custom taxonomies and custom fields: https://wordpress.org/plugins/types/screenshots/
+- Shortcode manager: https://wordpress.org/plugins/shorty/
 
 ## Accessability
 - 7 things you need to know: https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.7nqvzajev
@@ -104,3 +107,6 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - Cost of modules: https://cost-of-modules.herokuapp.com
 
 Show recent Instagram posts on website: https://ifttt.com/applets/65778p-saves-your-instagrams-to-rows-in-a-google-drive-spreadsheet, jlord.us/blog
+Node on Android: https://github.com/node-on-mobile/node-on-android
+Lint forms: https://formlinter.com/
+Show JS errors on mobile: https://github.com/hcodes/show-js-error
