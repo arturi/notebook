@@ -62,7 +62,8 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 
 ## Layout, CSS
 
-- Shoelace (with css variables) https://shoelace.style/
+- Shoelace component framework (with css variables) https://shoelace.style/
+- Composable class names framework: http://tachyons.io
 - Min CSS framework (995 bytes, Bootstrap-like, grids, inputs): http://mincss.com/index.html
 - Clever column usage in a blog post: http://book.glvrd.ru/indesign/
 - Social meta tags generator: https://autonome.github.io/silobuster/
