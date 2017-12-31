@@ -83,29 +83,53 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - Nice gradients in CSS: https://www.grabient.com/
 
 ## Polyfills
+
 - `object-fit`, with video support: https://github.com/jonathantneal/fitie
 - `object-fit`, better, but images only: https://github.com/bfred-it/object-fit-images
 - Pretty select dropdown: http://code.octopuscreative.com/fancyselect/, https://select2.github.io/, https://github.com/filamentgroup/select-css (last one is just the select thing, not dropdown)
 
 ## Templating
+
 - Marko: https://github.com/marko-js/marko
 
 ## WordPress
+
 - Advanced Custom Fields: custom fields, option pages, repeaters, very flexible: http://advancedcustomfields.com
 - Types, for custom post types, custom taxonomies and custom fields: https://wordpress.org/plugins/types/screenshots/
 - Shortcode manager: https://wordpress.org/plugins/shorty/
+- Add typograph to Wordpress: http://dmitryshishkin.ru/all/tipograf-na-sayt/
+- Duplicator for moving between hosts: https://wordpress.org/plugins/duplicator/
 
-## Accessability
+## Accessibility
+
 - 7 things you need to know: https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.7nqvzajev
+- https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939
+https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412
+- http://simplyaccessible.com/article/react-a11y/
+- https://github.com/simplyaccessible/tv-db/blob/master/src/components/Announcements.js
 - Automated accessability testing: https://github.com/pa11y/pa11y
 
 ## Nice Blog Layouts
+
 - http://zaytsev.io/blog
 - http://cherenkevich.com
 - http://destroytoday.com
 
+## Indie Web Movement
+
+- https://aaronparecki.com/
+- https://macwright.org
+- http://manton.org
+
+## Encrytption
+
+- How to simply encrypt files on Mac and Linux: https://n-o-d-e.net/encrypt.html
+
 ## NPM tools
-- Cost of modules: https://cost-of-modules.herokuapp.com
+
+- Bundlephobia, cost of modules: https://bundlephobia.com/
+
+## Misc
 
 Show recent Instagram posts on website: https://ifttt.com/applets/65778p-saves-your-instagrams-to-rows-in-a-google-drive-spreadsheet, jlord.us/blog
 Node on Android: https://github.com/node-on-mobile/node-on-android
