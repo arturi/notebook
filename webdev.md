@@ -62,6 +62,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 
 ## Layout, CSS
 
+- ★ Great little UI tips: https://twitter.com/i/moments/880688233641848832?s=13
 - Shoelace component framework (with css variables) https://shoelace.style/
 - Composable class names framework: http://tachyons.io
 - Min CSS framework (995 bytes, Bootstrap-like, grids, inputs): http://mincss.com/index.html
