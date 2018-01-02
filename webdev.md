@@ -136,3 +136,4 @@ Show recent Instagram posts on website: https://ifttt.com/applets/65778p-saves-y
 Node on Android: https://github.com/node-on-mobile/node-on-android
 Lint forms: https://formlinter.com/
 Show JS errors on mobile: https://github.com/hcodes/show-js-error
+Minimum needed open graph sharing tags: http://www.phpied.com/minimum-viable-sharing-meta-tags/
