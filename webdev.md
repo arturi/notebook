@@ -132,8 +132,8 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 
 ## Misc
 
-Show recent Instagram posts on website: https://ifttt.com/applets/65778p-saves-your-instagrams-to-rows-in-a-google-drive-spreadsheet, jlord.us/blog
-Node on Android: https://github.com/node-on-mobile/node-on-android
-Lint forms: https://formlinter.com/
-Show JS errors on mobile: https://github.com/hcodes/show-js-error
-Minimum needed open graph sharing tags: http://www.phpied.com/minimum-viable-sharing-meta-tags/
+- Show recent Instagram posts on website: https://ifttt.com/applets/65778p-saves-your-instagrams-to-rows-in-a-google-drive-spreadsheet, jlord.us/blog
+- Node on Android: https://github.com/node-on-mobile/node-on-android
+- Lint forms: https://formlinter.com/
+- Show JS errors on mobile: https://github.com/hcodes/show-js-error
+- Minimum needed open graph sharing tags: http://www.phpied.com/minimum-viable-sharing-meta-tags/
