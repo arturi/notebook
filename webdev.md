@@ -55,6 +55,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Simple browser test with Selenium and Tape: https://gist.github.com/patrickarlt/931b129598703eed4dda
 - Russian and English typograph: https://github.com/typograf/typograf
 - Responsive tables: https://github.com/filamentgroup/tablesaw/blob/master/README.md
+- JS Books: https://survivejs.com/, http://eloquentjavascript.net/
 
 ## Cool docs
 
