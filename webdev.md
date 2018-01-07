@@ -109,7 +109,8 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412
 - http://simplyaccessible.com/article/react-a11y/
 - https://github.com/simplyaccessible/tv-db/blob/master/src/components/Announcements.js
-- Automated accessability testing: https://github.com/pa11y/pa11y
+- Automated Accessibility testing: https://github.com/pa11y/pa11y
+- Simple Accessibility testing from Github: https://github.com/github/accessibilityjs
 
 ## Nice Blog Layouts
 
