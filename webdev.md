@@ -46,6 +46,10 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - CSS-only slider https://voltra.co/
 - Dragable drid JS, Packery: https://packery.metafizzy.co/; persistant order: http://codepen.io/desandro/pen/PZrXVv, https://github.com/metafizzy/packery/issues/337
 
+## Stock images, video
+
+Free music: https://100.aaronparecki.com/
+
 ## JavaScript
 
 - JS Tips: https://github.com/loverajoel/jstips
