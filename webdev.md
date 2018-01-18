@@ -105,6 +105,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - Shortcode manager: https://wordpress.org/plugins/shorty/
 - Add typograph to Wordpress: http://dmitryshishkin.ru/all/tipograf-na-sayt/
 - Duplicator for moving between hosts: https://wordpress.org/plugins/duplicator/
+- EDD Yandex.Kassa plugin: https://sheensay.ru/edd-yandex-kassa
 
 ## Accessibility
 
