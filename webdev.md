@@ -75,6 +75,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - Social meta tags generator: https://autonome.github.io/silobuster/
 - Full viewport width images (hipsta) inside a fixed width container: https://css-tricks.com/full-width-containers-limited-width-parents/
 - Google Fonts pairs: http://digitalsynopsis.com/design/best-google-font-combinations-typeface-pairings/
+- making-password-managers-play-ball-with-your-login-form: https://hiddedevries.nl/en/blog/2018-01-13-making-password-managers-play-ball-with-your-login-form
 
 ## SVG
 
