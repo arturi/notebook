@@ -129,6 +129,9 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - https://aaronparecki.com/
 - https://macwright.org
 - http://manton.org
+- https://eli.li/
+- https://mmarfil.com/
+- https://micro.blog
 
 ## Encrytption
 
