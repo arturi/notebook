@@ -117,6 +117,9 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - https://github.com/simplyaccessible/tv-db/blob/master/src/components/Announcements.js
 - Automated Accessibility testing: https://github.com/pa11y/pa11y
 - Simple Accessibility testing from Github: https://github.com/github/accessibilityjs
+- https://inclusive-components.design/tabbed-interfaces/
+- http://simplyaccessible.com/article/react-a11y/
+
 
 ## Nice Blog Layouts
 
