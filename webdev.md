@@ -11,6 +11,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Small single page React app hosted on Github Pages: https://github.com/rafrex/spa-github-pages
 - Choo + Socket.io simple chat app: https://github.com/notenoughneon/nekocafe
 - Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
+- Simple Vue.js app: https://github.com/tholman/what-have-you-made-today/blob/master/src/components/siteTiles.vue
 
 ## Simple JS examples
 
