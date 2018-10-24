@@ -121,7 +121,8 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - Simple Accessibility testing from Github: https://github.com/github/accessibilityjs
 - https://inclusive-components.design/tabbed-interfaces/
 - http://simplyaccessible.com/article/react-a11y/
-
+- https://github.com/theKashey/react-focus-on — The final solution for WAI ARIA compatible modal dialogs or full-screen tasks.
+- https://github.com/theKashey/aria-hidden — Hides from ARIA everything, except provided node. Helps to isolate modal dialogs and focused task - the content will be not accessible using accesible tools.
 
 ## Nice Blog Layouts
 
