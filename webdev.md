@@ -78,6 +78,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - Google Fonts pairs: http://digitalsynopsis.com/design/best-google-font-combinations-typeface-pairings/
 - making-password-managers-play-ball-with-your-login-form: https://hiddedevries.nl/en/blog/2018-01-13-making-password-managers-play-ball-with-your-login-form
 - Animations Repaintless: http://szynszyliszys.github.io/repaintless/
+- Styling native select in 2019: https://www.filamentgroup.com/lab/select-css.html
 
 ## SVG
 
