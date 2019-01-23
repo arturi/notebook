@@ -74,6 +74,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 
 ## Layout, CSS
 
+- ★★★ 1-line CSS snippets (Responsive, truncation, responsive media) https://justmarkup.com/log/2018/03/collection-of-css-snippets/
 - ★ Great little UI tips: https://twitter.com/i/moments/880688233641848832?s=13
 - Shoelace component framework (with css variables) https://shoelace.style/
 - Composable class names framework: http://tachyons.io
