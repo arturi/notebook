@@ -13,10 +13,11 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
 - Simple Vue.js app: https://github.com/tholman/what-have-you-made-today/blob/master/src/components/siteTiles.vue
 
-## Simple JS examples
+## Simple / cool JS examples
 
 - Chrome extension (calls to the main API, use of i18n): https://github.com/pepelsbey/contenteditable/blob/master/background.js
 - Brexit poll Slack bot: https://gist.github.com/ajfisher/2361c4fd200996a6a41272cad54b2fd0
+- RSS client: https://github.com/getstream/winds/
 
 ## Build tools
 
@@ -24,6 +25,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - https://github.com/nolanlawson/pokedex.org/blob/master/bin/build.js
 - Task automation with NPM run: http://substack.net/task_automation_with_npm_run
 - Bundle and minify easily with Browserify, Webpack or Rollup: https://github.com/hyperapp/hyperapp/wiki/Hyperx#setup
+- Download fonts from Google Fonts to serve from your own website: https://google-webfonts-helper.herokuapp.com/fonts/open-sans?subsets=latin,cyrillic
 
 ## JS Libs
 
@@ -48,6 +50,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Dragable drid JS, Packery: https://packery.metafizzy.co/; persistant order: http://codepen.io/desandro/pen/PZrXVv, https://github.com/metafizzy/packery/issues/337
 - Trix modern WYSIWIG text editor from Basecamp: http://trix-editor.org
 - Lunr: Javascript search: https://lunrjs.com/guides/getting_started.html
+- Generate neat SVG graphs with JS: https://github.com/fnando/sparkline/blob/master/README.md
 
 ## Stock images, video
 
@@ -67,6 +70,7 @@ Free music: https://100.aaronparecki.com/
 ## Cool docs
 
 Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
+
 
 ## Layout, CSS
 
@@ -145,6 +149,7 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 ## Encrytption
 
 - How to simply encrypt files on Mac and Linux: https://n-o-d-e.net/encrypt.html
+- HTML page that generates an encrypted page: https://github.com/derhuerst/html-vault/blob/gh-pages/readme.md
 
 ## NPM tools
 
