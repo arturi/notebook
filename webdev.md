@@ -163,3 +163,4 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - Lint forms: https://formlinter.com/
 - Show JS errors on mobile: https://github.com/hcodes/show-js-error
 - Minimum needed open graph sharing tags: http://www.phpied.com/minimum-viable-sharing-meta-tags/
+- Alternatives to Google services, but also just a good list of services: https://nomoregoogle.com/
