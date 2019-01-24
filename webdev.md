@@ -31,6 +31,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 - Safe JSON.parse, object to string: https://github.com/davidmarkclements/fast-safe-stringify
 - Tiny event emitter: https://github.com/scottcorgan/tiny-emitter
+- How to work with money, Dinero.js: https://frontstuff.io/how-to-handle-monetary-values-in-javascript
 
 ## Small helpler interface libs
 
@@ -70,7 +71,6 @@ Free music: https://100.aaronparecki.com/
 ## Cool docs
 
 Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
-
 
 ## Layout, CSS
 
