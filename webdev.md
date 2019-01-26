@@ -32,6 +32,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 - Safe JSON.parse, object to string: https://github.com/davidmarkclements/fast-safe-stringify
 - Tiny event emitter: https://github.com/scottcorgan/tiny-emitter
+- Nano id (like uuid): https://github.com/ai/nanoid
 - How to work with money, Dinero.js: https://frontstuff.io/how-to-handle-monetary-values-in-javascript
 
 ## Small helpler interface libs
