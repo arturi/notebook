@@ -12,6 +12,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Choo + Socket.io simple chat app: https://github.com/notenoughneon/nekocafe
 - Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
 - Simple Vue.js app: https://github.com/tholman/what-have-you-made-today/blob/master/src/components/siteTiles.vue
+- Multiple reducers example: https://github.com/GetStream/Winds/blob/3efc4153984a21f29b4d9c5d29e39af24ed91b82/app/src/reducers.js
 
 ## Simple / cool JS examples
 
