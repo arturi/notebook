@@ -99,6 +99,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 ## Colors
 
 - Automatic UI Color Palette Generator: https://palx.jxnblk.com/
+- Advanced palette generator: https://coolors.co
 - Nice gradients in CSS: https://www.grabient.com/
 
 ## Polyfills
