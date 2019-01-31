@@ -1,21 +1,17 @@
 # Collection of tips, tricks & cool web apps for code studying
 
-## Single page apps with Virtual Dom, yo-yo, Choo
+## SPAs with Preact, Svelte, Vue, Virtual Dom, Choo
 
-- Feross’s webtorrent: https://github.com/feross/webtorrent-desktop ★
+- Webtorrent Desktop: https://github.com/feross/webtorrent-desktop ★
+- ★ Preact, PWA, IndexedDB, offline: https://github.com/trys/JournalBook
+- ★ Svelte PWA, Mastodon client Pinafore: https://github.com/nolanlawson/pinafore/
 - Feather-app, WebWorker, state, actions, virtual-dom: https://github.com/HenrikJoreteg/feather-app/tree/master/src
 - Nolan Lawson’s Pokedex: https://github.com/nolanlawson/pokedex.org/, 
 http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
-- Substack’s chatwizard: https://github.com/substack/chatwizard
 - Substack’s simple SPA example with `virtual-dom` + `hyperx` + `main-loop`: https://github.com/substack/training/blob/master/web-dev-whirlwind/example/dom/hyperx-vdom/main.js
-- Small single page React app hosted on Github Pages: https://github.com/rafrex/spa-github-pages
-- Choo + Socket.io simple chat app: https://github.com/notenoughneon/nekocafe
 - Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
 - Simple Vue.js app: https://github.com/tholman/what-have-you-made-today/blob/master/src/components/siteTiles.vue
 - Multiple reducers example: https://github.com/GetStream/Winds/blob/3efc4153984a21f29b4d9c5d29e39af24ed91b82/app/src/reducers.js
-
-## Simple / cool JS examples
-
 - Chrome extension (calls to the main API, use of i18n): https://github.com/pepelsbey/contenteditable/blob/master/background.js
 - Brexit poll Slack bot: https://gist.github.com/ajfisher/2361c4fd200996a6a41272cad54b2fd0
 - RSS client: https://github.com/getstream/winds/
@@ -34,9 +30,6 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Tiny event emitter: https://github.com/scottcorgan/tiny-emitter
 - Nano id (like uuid): https://github.com/ai/nanoid
 - How to work with money, Dinero.js: https://frontstuff.io/how-to-handle-monetary-values-in-javascript
-
-## Small helpler interface libs
-
 - Create split view panes: http://nathancahill.github.io/Split.js/
 - Smooth scrolling: http://callmecavs.com/jump.js/
 - Lazy loading images: https://github.com/callmecavs/layzr.js
@@ -54,13 +47,11 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Trix modern WYSIWIG text editor from Basecamp: http://trix-editor.org
 - Lunr: Javascript search: https://lunrjs.com/guides/getting_started.html
 - Generate neat SVG graphs with JS: https://github.com/fnando/sparkline/blob/master/README.md
-
-## Stock images, video
-
-Free music: https://100.aaronparecki.com/
+- Templates marko: https://github.com/marko-js/marko
 
 ## JavaScript
 
+- Bundlephobia, cost of modules: https://bundlephobia.com/
 - JS Tips: https://github.com/loverajoel/jstips
 - funfunfunction short & fun videos (#gold):
   - Composition over Inheretance: https://www.youtube.com/watch?v=wfMtDGfHWpA
@@ -70,9 +61,14 @@ Free music: https://100.aaronparecki.com/
 - Responsive tables: https://github.com/filamentgroup/tablesaw/blob/master/README.md
 - JS Books: https://survivejs.com/, http://eloquentjavascript.net/
 
+## Stock images, video
+
+- ★ Free music: https://100.aaronparecki.com/
+
 ## Cool docs
 
-Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
+- Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
+- https://docusaurus.io/
 
 ## Layout, CSS
 
@@ -91,6 +87,7 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 
 ## SVG
 
+- Free awesome icons: http://sergeychikin.ru/365/
 - SVG animations: https://github.com/maxwellito/vivus
 - SVG icons sprite usage live example: https://voltra.co/
 - SVG flat company logos: http://konpa.github.io/devicon/
@@ -107,10 +104,6 @@ Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - `object-fit`, with video support: https://github.com/jonathantneal/fitie
 - `object-fit`, better, but images only: https://github.com/bfred-it/object-fit-images
 - Pretty select dropdown: http://code.octopuscreative.com/fancyselect/, https://select2.github.io/, https://github.com/filamentgroup/select-css (last one is just the select thing, not dropdown)
-
-## Templating
-
-- Marko: https://github.com/marko-js/marko
 
 ## WordPress
 
@@ -154,10 +147,6 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 
 - How to simply encrypt files on Mac and Linux: https://n-o-d-e.net/encrypt.html
 - HTML page that generates an encrypted page: https://github.com/derhuerst/html-vault/blob/gh-pages/readme.md
-
-## NPM tools
-
-- Bundlephobia, cost of modules: https://bundlephobia.com/
 
 ## Misc
 
