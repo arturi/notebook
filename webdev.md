@@ -85,6 +85,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - making-password-managers-play-ball-with-your-login-form: https://hiddedevries.nl/en/blog/2018-01-13-making-password-managers-play-ball-with-your-login-form
 - Animations Repaintless: http://szynszyliszys.github.io/repaintless/
 - Styling native select in 2019: https://www.filamentgroup.com/lab/select-css.html
+- Set current scroll position to `html` and then use it in CSS to show/hide/animate things: https://pqina.nl/blog/applying-styles-based-on-the-user-scroll-position-with-smart-css/
 
 ## SVG
 
