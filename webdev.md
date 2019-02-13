@@ -89,7 +89,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 ## SVG
 
-- Free awesome icons: http://sergeychikin.ru/365/
+- ★★★ Free awesome svg icons: http://sergeychikin.ru/365/
 - SVG animations: https://github.com/maxwellito/vivus
 - SVG icons sprite usage live example: https://voltra.co/
 - SVG flat company logos: http://konpa.github.io/devicon/
