@@ -50,6 +50,10 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Generate neat SVG graphs with JS: https://github.com/fnando/sparkline/blob/master/README.md
 - Templates marko: https://github.com/marko-js/marko
 
+## React
+
+- Render large lists efficiently with react-window: small library for virtualizing lists & grids. Renders what users can see vs all your items at once https://addyosmani.com/blog/react-window/
+
 ## JavaScript
 
 - Bundlephobia, cost of modules: https://bundlephobia.com/
