@@ -164,3 +164,4 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - Minimum needed open graph sharing tags: http://www.phpied.com/minimum-viable-sharing-meta-tags/
 - Alternatives to Google services, but also just a good list of services: https://nomoregoogle.com/
 - Remove background from image (obtravit') automatically: https://www.remove.bg/
+- Avatar generator: https://getavataaars.com/
