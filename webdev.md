@@ -2,6 +2,7 @@
 
 ## SPAs with Preact, Svelte, Vue, Virtual Dom, Choo
 
+- ★ RSS client, React/Redux: https://github.com/getstream/winds/, https://github.com/GetStream/Winds/blob/90d1b993e177ad613e828000f285a3900053c84d/app/src/components/Header.js
 - Webtorrent Desktop: https://github.com/feross/webtorrent-desktop ★
 - ★ Preact, PWA, IndexedDB, offline: https://github.com/trys/JournalBook
 - ★ Svelte PWA, Mastodon client Pinafore: https://github.com/nolanlawson/pinafore/
@@ -14,7 +15,6 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Multiple reducers example: https://github.com/GetStream/Winds/blob/3efc4153984a21f29b4d9c5d29e39af24ed91b82/app/src/reducers.js
 - Chrome extension (calls to the main API, use of i18n): https://github.com/pepelsbey/contenteditable/blob/master/background.js
 - Brexit poll Slack bot: https://gist.github.com/ajfisher/2361c4fd200996a6a41272cad54b2fd0
-- RSS client: https://github.com/getstream/winds/
 - Simple reducers, lit-html: https://github.com/kahlil/kaf/blob/master/js/kaf-app.js
 
 ## Build tools
