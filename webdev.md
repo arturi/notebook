@@ -53,6 +53,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 ## React
 
 - Render large lists efficiently with react-window: small library for virtualizing lists & grids. Renders what users can see vs all your items at once https://addyosmani.com/blog/react-window/
+- React Native training: https://medium.com/react-native-training/position-element-at-the-bottom-of-the-screen-using-flexbox-in-react-native-a00b3790ca42
 
 ## JavaScript
 
