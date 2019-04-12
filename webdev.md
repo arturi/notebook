@@ -66,6 +66,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Russian and English typograph: https://github.com/typograf/typograf
 - Responsive tables: https://github.com/filamentgroup/tablesaw/blob/master/README.md
 - JS Books: https://survivejs.com/, http://eloquentjavascript.net/
+- Native lazy loading: https://www.andreaverlicchi.eu/native-lazy-loading-with-vanilla-lazyload/
 
 ## Stock images, video
 
