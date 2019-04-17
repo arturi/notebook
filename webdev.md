@@ -169,3 +169,4 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - Alternatives to Google services, but also just a good list of services: https://nomoregoogle.com/
 - Remove background from image (obtravit') automatically: https://www.remove.bg/
 - Avatar generator: https://getavataaars.com/
+- Landing rules: https://gist.github.com/ai/e3683b03ba936ade91d33dbc721cd6d8
