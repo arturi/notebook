@@ -44,6 +44,8 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Put dots with tooltips on images (like LabelMaker): https://codecanyon.net/item/visual-composer-addon-image-hotspot-with-tooltip/8729185
 - CSS-only tooltips: https://github.com/kazzkiq/balloon.css :tada:
 - CSS-only slider https://voltra.co/
+- jQuery slider: http://jquery.malsup.com/cycle/
+- Slider: http://kenwheeler.github.io/slick/
 - Dragable drid JS, Packery: https://packery.metafizzy.co/; persistant order: http://codepen.io/desandro/pen/PZrXVv, https://github.com/metafizzy/packery/issues/337
 - Trix modern WYSIWIG text editor from Basecamp: http://trix-editor.org
 - Markdown editor with preview pane, scroll sync https://github.com/nhn/tui.editor
