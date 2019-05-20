@@ -52,6 +52,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Lunr: Javascript search: https://lunrjs.com/guides/getting_started.html
 - Generate neat SVG graphs with JS: https://github.com/fnando/sparkline/blob/master/README.md
 - Templates marko: https://github.com/marko-js/marko
+- Advanced locale [languages translations] support: https://projectfluent.org/
 
 ## React
 
