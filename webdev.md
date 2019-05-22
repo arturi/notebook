@@ -24,6 +24,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Task automation with NPM run: http://substack.net/task_automation_with_npm_run
 - Bundle and minify easily with Browserify, Webpack or Rollup: https://github.com/hyperapp/hyperapp/wiki/Hyperx#setup
 - Download fonts from Google Fonts to serve from your own website: https://google-webfonts-helper.herokuapp.com/fonts/open-sans?subsets=latin,cyrillic
+- JSDoc with Typescript: https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76, https://mobile.twitter.com/pfrazee/status/1084528851982663682
 
 ## JS Libs
 
