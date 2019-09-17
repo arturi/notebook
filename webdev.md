@@ -123,6 +123,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - `object-fit`, with video support: https://github.com/jonathantneal/fitie
 - `object-fit`, better, but images only: https://github.com/bfred-it/object-fit-images
 - Pretty select dropdown: http://code.octopuscreative.com/fancyselect/, https://select2.github.io/, https://github.com/filamentgroup/select-css (last one is just the select thing, not dropdown)
+- IE11 Custom properties (`--myColor: red;`): https://github.com/nuxodin/ie11CustomProperties
 
 ## WordPress
 
