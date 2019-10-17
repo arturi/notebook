@@ -111,6 +111,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - SVG icons sprite usage live example: https://voltra.co/
 - SVG flat company logos: http://konpa.github.io/devicon/
 - ★ How to use SVG icons: https://fvsch.com/code/svg-icons/how-to/#section-adding
+- SVG to clip path tool: https://yoksel.github.io/relative-clip-path/
 
 ## Colors
 
