@@ -103,6 +103,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Styling native select in 2019: https://www.filamentgroup.com/lab/select-css.html
 - Set current scroll position to `html` and then use it in CSS to show/hide/animate things: https://pqina.nl/blog/applying-styles-based-on-the-user-scroll-position-with-smart-css/
 - Flexbox holy albatros: http://www.heydonworks.com/article/the-flexbox-holy-albatross
+- Prevent accidental navigation when scrolling horizontally: https://dev.to/danburzo/css-micro-tip-prevent-history-navigation-on-horizontally-scrolling-elements-3iil
 
 ## SVG
 
