@@ -15,6 +15,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Chrome extension (calls to the main API, use of i18n): https://github.com/pepelsbey/contenteditable/blob/master/background.js
 - Brexit poll Slack bot: https://gist.github.com/ajfisher/2361c4fd200996a6a41272cad54b2fd0
 - Simple reducers, lit-html: https://github.com/kahlil/kaf/blob/master/js/kaf-app.js
+- Redux vs Context API: https://daveceddia.com/context-api-vs-redux/
 
 ## Build tools
 
