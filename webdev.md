@@ -9,7 +9,6 @@
 - Feather-app, WebWorker, state, actions, virtual-dom: https://github.com/HenrikJoreteg/feather-app/tree/master/src
 - Nolan Lawson’s Pokedex: https://github.com/nolanlawson/pokedex.org/, 
 http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
-- Substack’s simple SPA example with `virtual-dom` + `hyperx` + `main-loop`: https://github.com/substack/training/blob/master/web-dev-whirlwind/example/dom/hyperx-vdom/main.js
 - Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
 - Simple Vue.js app: https://github.com/tholman/what-have-you-made-today/blob/master/src/components/siteTiles.vue
 - Multiple reducers example: https://github.com/GetStream/Winds/blob/3efc4153984a21f29b4d9c5d29e39af24ed91b82/app/src/reducers.js
@@ -106,6 +105,8 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Prevent accidental navigation when scrolling horizontally: https://dev.to/danburzo/css-micro-tip-prevent-history-navigation-on-horizontally-scrolling-elements-3iil
 - Want to create responsive images fast? Try https://responsivebreakpoints.com
 - Compress images in PRs https://calibreapp.com/blog/compress-images-in-prs
+- ★ Modern CSS Reset: https://hankchizljaw.com/wrote/a-modern-css-reset/
+- Making better custom select element: https://24ways.org/2019/making-a-better-custom-select-element/
 
 ## SVG
 
@@ -152,6 +153,10 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - https://github.com/theKashey/react-focus-on — The final solution for WAI ARIA compatible modal dialogs or full-screen tasks.
 - https://github.com/theKashey/aria-hidden — Hides from ARIA everything, except provided node. Helps to isolate modal dialogs and focused task - the content will be not accessible using accesible tools.
 - https://www.matuzo.at/blog/12-tips-for-more-accessible-react-apps-slides-react-finland-2019/ — visually hidden css
+- Test level overview: http://qualitytesting.tech/test-level-overview/
+- Accessibility checks: https://dequeuniversity.com/rules/axe/3.2
+- 6 things to check for: https://www.matuzo.at/blog/beyond-automatic-accessibility-testing-6-things-i-check-on-every-website-i-build/
+- 12 tips for more accessible react apps: https://www.matuzo.at/blog/12-tips-for-more-accessible-react-apps-slides-react-finland-2019/
 
 ## Nice Blog Layouts
 
