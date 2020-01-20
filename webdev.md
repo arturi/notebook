@@ -16,6 +16,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Brexit poll Slack bot: https://gist.github.com/ajfisher/2361c4fd200996a6a41272cad54b2fd0
 - Simple reducers, lit-html: https://github.com/kahlil/kaf/blob/master/js/kaf-app.js
 - Redux vs Context API: https://daveceddia.com/context-api-vs-redux/
+- Svelte simple example: https://github.com/sw-yx/bettertwitter/tree/master/src
 
 ## Build tools
 
