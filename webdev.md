@@ -115,6 +115,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Compress images in PRs https://calibreapp.com/blog/compress-images-in-prs
 - ★ Modern CSS Reset: https://hankchizljaw.com/wrote/a-modern-css-reset/
 - Making better custom select element: https://24ways.org/2019/making-a-better-custom-select-element/
+- Common responsive layouts: https://hub.samsunginter.net/common-responsive-layouts-with-css-grid--and-some-without--/
 
 ## SVG
 
