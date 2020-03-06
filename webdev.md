@@ -60,6 +60,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Render large lists efficiently with react-window: small library for virtualizing lists & grids. Renders what users can see vs all your items at once https://addyosmani.com/blog/react-window/
 - React Native training: https://medium.com/react-native-training/position-element-at-the-bottom-of-the-screen-using-flexbox-in-react-native-a00b3790ca42
 - File System in React: https://github.com/imshubhamsingh/file-system-react
+- From Redux to Context: https://dev.to/csantiago132/how-to-migrate-from-redux-to-react-context-api-5gkc
 
 ## JavaScript
 
@@ -73,6 +74,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Responsive tables: https://github.com/filamentgroup/tablesaw/blob/master/README.md
 - JS Books: https://survivejs.com/, http://eloquentjavascript.net/
 - Native lazy loading: https://www.andreaverlicchi.eu/native-lazy-loading-with-vanilla-lazyload/
+- Build a game with vanilla JS: https://www.mullinstack.com/2020/02/22/build-arcade-game-vanilla-javascript-dom-manipulation/
 
 ## Node
 
