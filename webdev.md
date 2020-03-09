@@ -84,6 +84,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 ## Stock images, video
 
 - ★ Free music: https://100.aaronparecki.com/
+- Draw outline map of any city: https://anvaka.github.io/city-roads
 
 ## Cool docs
 
