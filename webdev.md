@@ -75,6 +75,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - JS Books: https://survivejs.com/, http://eloquentjavascript.net/
 - Native lazy loading: https://www.andreaverlicchi.eu/native-lazy-loading-with-vanilla-lazyload/
 - Build a game with vanilla JS: https://www.mullinstack.com/2020/02/22/build-arcade-game-vanilla-javascript-dom-manipulation/
+- Encryption in the browser: https://blog.excalidraw.com/end-to-end-encryption/
 
 ## Node
 
