@@ -6,7 +6,6 @@
 - Webtorrent Desktop: https://github.com/feross/webtorrent-desktop ★
 - ★ Preact, PWA, IndexedDB, offline: https://github.com/trys/JournalBook
 - ★ Svelte PWA, Mastodon client Pinafore: https://github.com/nolanlawson/pinafore/
-- Feather-app, WebWorker, state, actions, virtual-dom: https://github.com/HenrikJoreteg/feather-app/tree/master/src
 - Nolan Lawson’s Pokedex: https://github.com/nolanlawson/pokedex.org/, 
 http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Normal version, plus React-version, plus Angular-version: https://github.com/nosir/cleave.js/tree/master/src
@@ -119,6 +118,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Making better custom select element: https://24ways.org/2019/making-a-better-custom-select-element/
 - Common responsive layouts: https://hub.samsunginter.net/common-responsive-layouts-with-css-grid--and-some-without--/
 - CSS color palette generator: https://yoksel.github.io/tema/
+- Native Elements, styles for inputs, headers, buttons: https://native-elements.stackblitz.io/
 
 ## SVG
 
