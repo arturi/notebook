@@ -1,6 +1,6 @@
 # Collection of tips, tricks & cool web apps for code studying
 
-## SPAs with Preact, Svelte, Vue, Virtual Dom, Choo
+## SPAs with Preact, Svelte, Vue, Choo
 
 - ★ RSS client, React/Redux: https://github.com/getstream/winds/, https://github.com/GetStream/Winds/blob/90d1b993e177ad613e828000f285a3900053c84d/app/src/components/Header.js
 - Webtorrent Desktop: https://github.com/feross/webtorrent-desktop ★
@@ -119,6 +119,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Common responsive layouts: https://hub.samsunginter.net/common-responsive-layouts-with-css-grid--and-some-without--/
 - CSS color palette generator: https://yoksel.github.io/tema/
 - Native Elements, styles for inputs, headers, buttons: https://native-elements.stackblitz.io/
+- How to make iframe responsive: https://mobile.twitter.com/simevidas/status/1247295722699010057
 
 ## SVG
 
