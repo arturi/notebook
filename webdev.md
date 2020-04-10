@@ -3,7 +3,7 @@
 ## SPAs with Preact, Svelte, Vue, Choo
 
 - ★ RSS client, React/Redux: https://github.com/getstream/winds/, https://github.com/GetStream/Winds/blob/90d1b993e177ad613e828000f285a3900053c84d/app/src/components/Header.js
-- Webtorrent Desktop: https://github.com/feross/webtorrent-desktop ★
+- Webtorrent Desktop: https://github.com/feross/webtorrent-desktop
 - ★ Preact, PWA, IndexedDB, offline: https://github.com/trys/JournalBook
 - ★ Svelte PWA, Mastodon client Pinafore: https://github.com/nolanlawson/pinafore/
 - Nolan Lawson’s Pokedex: https://github.com/nolanlawson/pokedex.org/, 
@@ -23,7 +23,6 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - NPM scripts: https://github.com/feross/studynotes/blob/master/package.json#L119-L137
 - https://github.com/nolanlawson/pokedex.org/blob/master/bin/build.js
 - Task automation with NPM run: http://substack.net/task_automation_with_npm_run
-- Bundle and minify easily with Browserify, Webpack or Rollup: https://github.com/hyperapp/hyperapp/wiki/Hyperx#setup
 - Download fonts from Google Fonts to serve from your own website: https://google-webfonts-helper.herokuapp.com/fonts/open-sans?subsets=latin,cyrillic
 - JSDoc with Typescript: https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76, https://mobile.twitter.com/pfrazee/status/1084528851982663682
 
@@ -55,21 +54,9 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Generate neat SVG graphs with JS: https://github.com/fnando/sparkline/blob/master/README.md
 - Advanced locale [languages translations] support: https://projectfluent.org/
 
-## React
-
-- Render large lists efficiently with react-window: small library for virtualizing lists & grids. Renders what users can see vs all your items at once https://addyosmani.com/blog/react-window/
-- React Native training: https://medium.com/react-native-training/position-element-at-the-bottom-of-the-screen-using-flexbox-in-react-native-a00b3790ca42
-- File System in React: https://github.com/imshubhamsingh/file-system-react
-- From Redux to Context: https://dev.to/csantiago132/how-to-migrate-from-redux-to-react-context-api-5gkc
-
-## Svelte
-
-- Compile Svelte in your head: https://lihautan.com/compile-svelte-in-your-head-part-1/
-
 ## JavaScript
 
 - Bundlephobia, cost of modules: https://bundlephobia.com/
-- JS Tips: https://github.com/loverajoel/jstips
 - funfunfunction short & fun videos (#gold):
   - Composition over Inheretance: https://www.youtube.com/watch?v=wfMtDGfHWpA
   - Factory functions in JavaScript: https://www.youtube.com/watch?v=ImwrezYhw4w
@@ -80,6 +67,24 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Native lazy loading: https://www.andreaverlicchi.eu/native-lazy-loading-with-vanilla-lazyload/
 - Build a game with vanilla JS: https://www.mullinstack.com/2020/02/22/build-arcade-game-vanilla-javascript-dom-manipulation/
 - Encryption in the browser: https://blog.excalidraw.com/end-to-end-encryption/
+- - JS Tips: https://github.com/loverajoel/jstips
+- ★ JS snippets / solutions: https://htmldom.dev/strip-html-from-a-given-text/
+- ★ https://github.com/ryanmcdermott/clean-code-javascript
+
+### Svelte
+
+- Compile Svelte in your head: https://lihautan.com/compile-svelte-in-your-head-part-1/
+
+### Preact
+
+- HTM's preact integration now includes hooks. 4.6kb for VDOM + JSX + hooks with no build step is good value-for-money, IMO: https://github.com/developit/htm, https://mobile.twitter.com/_developit/status/1220102334048624643
+
+### React
+
+- Render large lists efficiently with react-window: small library for virtualizing lists & grids. Renders what users can see vs all your items at once https://addyosmani.com/blog/react-window/
+- React Native training: https://medium.com/react-native-training/position-element-at-the-bottom-of-the-screen-using-flexbox-in-react-native-a00b3790ca42
+- File System in React: https://github.com/imshubhamsingh/file-system-react
+- From Redux to Context: https://dev.to/csantiago132/how-to-migrate-from-redux-to-react-context-api-5gkc
 
 ## Node
 
@@ -93,6 +98,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 ## Cool docs
 
+- Logux.io
 - Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - https://docusaurus.io/
 
@@ -105,7 +111,6 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - ★ Great little UI tips: https://twitter.com/i/moments/880688233641848832?s=13
 - Shoelace component framework (with css variables) https://shoelace.style/
 - Composable class names framework: http://tachyons.io
-- Min CSS framework (995 bytes, Bootstrap-like, grids, inputs): http://mincss.com/index.html
 - Clever column usage in a blog post: http://book.glvrd.ru/indesign/
 - Social meta tags generator: https://autonome.github.io/silobuster/
 - Full viewport width images (hipsta) inside a fixed width container: https://css-tricks.com/full-width-containers-limited-width-parents/
@@ -178,14 +183,11 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - 6 things to check for: https://www.matuzo.at/blog/beyond-automatic-accessibility-testing-6-things-i-check-on-every-website-i-build/
 - 12 tips for more accessible react apps: https://www.matuzo.at/blog/12-tips-for-more-accessible-react-apps-slides-react-finland-2019/
 
-## Nice Blog Layouts
+## Nice Blog Layouts / Indie Web
 
 - http://zaytsev.io/blog
 - http://cherenkevich.com
 - http://destroytoday.com
-
-## Indie Web Movement
-
 - https://aaronparecki.com/
 - https://macwright.org
 - http://manton.org
