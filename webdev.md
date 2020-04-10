@@ -16,6 +16,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Simple reducers, lit-html: https://github.com/kahlil/kaf/blob/master/js/kaf-app.js
 - Redux vs Context API: https://daveceddia.com/context-api-vs-redux/
 - Svelte simple example: https://github.com/sw-yx/bettertwitter/tree/master/src
+- Svelte webmentions (promise await, etc): https://www.swyx.io/writing/clientside-webmentions/
 
 ## Build tools
 
@@ -61,6 +62,10 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - File System in React: https://github.com/imshubhamsingh/file-system-react
 - From Redux to Context: https://dev.to/csantiago132/how-to-migrate-from-redux-to-react-context-api-5gkc
 
+## Svelte
+
+- Compile Svelte in your head: https://lihautan.com/compile-svelte-in-your-head-part-1/
+
 ## JavaScript
 
 - Bundlephobia, cost of modules: https://bundlephobia.com/
@@ -91,7 +96,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Redux: http://redux.js.org/docs/recipes/UsingObjectSpreadOperator.html
 - https://docusaurus.io/
 
-## Layout, CSS
+## HTML, CSS, Layout
 
 - ★★★ Simple flexbox grid: https://www.taniarascia.com/easiest-flex-grid-ever/
 - Solved By Flexbox, a few layout examples: https://philipwalton.github.io/solved-by-flexbox/
@@ -120,6 +125,9 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - CSS color palette generator: https://yoksel.github.io/tema/
 - Native Elements, styles for inputs, headers, buttons: https://native-elements.stackblitz.io/
 - How to make iframe responsive: https://mobile.twitter.com/simevidas/status/1247295722699010057
+- Create a user controlled dark or light mode: https://hankchizljaw.com/wrote/create-a-user-controlled-dark-or-light-mode/
+- `<details>`: https://habr.com/en/post/477520/, https://daverupert.com/2019/12/why-details-is-not-an-accordion/
+- quotations/citations/blockquotes: https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/
 
 ## SVG
 
