@@ -133,6 +133,8 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Create a user controlled dark or light mode: https://hankchizljaw.com/wrote/create-a-user-controlled-dark-or-light-mode/
 - `<details>`: https://habr.com/en/post/477520/, https://daverupert.com/2019/12/why-details-is-not-an-accordion/
 - quotations/citations/blockquotes: https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/
+- A fun generator for CSS-only section separators: https://wweb.dev/resources/css-separator-generator
+- Show specific img only in dark mode: https://mobile.twitter.com/flaviocopes/status/1254690503863525376
 
 ## SVG
 
