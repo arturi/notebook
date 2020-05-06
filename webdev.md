@@ -135,6 +135,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - quotations/citations/blockquotes: https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/
 - A fun generator for CSS-only section separators: https://wweb.dev/resources/css-separator-generator
 - Show specific img only in dark mode: https://mobile.twitter.com/flaviocopes/status/1254690503863525376
+- Responsive images, srcset: https://cloudfour.com/thinks/responsive-images-the-simple-way/
 
 ## SVG
 
