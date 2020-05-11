@@ -90,6 +90,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
 - Fast web server: https://www.fastify.io/
 - Create and Deploy a Node.js, Express, & PostgreSQL REST API to Heroku: https://www.taniarascia.com/node-express-postgresql-heroku/
+- Simple (maybe too simple) auth with tokens: https://github.com/cakeinpanic/silly-node-auth/blob/master/app/routes.js
 
 ## Stock images, video
 
