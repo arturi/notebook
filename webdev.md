@@ -70,6 +70,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - - JS Tips: https://github.com/loverajoel/jstips
 - ★ JS snippets / solutions: https://htmldom.dev/strip-html-from-a-given-text/
 - ★ https://github.com/ryanmcdermott/clean-code-javascript
+- Transliteration (Iuliia → Юлия) https://antonz.ru/iuliia/
 
 ### Svelte
 
