@@ -71,6 +71,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - ★ JS snippets / solutions: https://htmldom.dev/strip-html-from-a-given-text/
 - ★ https://github.com/ryanmcdermott/clean-code-javascript
 - Transliteration (Iuliia → Юлия) https://antonz.ru/iuliia/
+- Web Component example (Lighthouse score in footer): https://www.zachleat.com/web/lighthouse-in-footer/
 
 ### Svelte
 
