@@ -1,6 +1,6 @@
 # Collection of tips, tricks & cool web apps for code studying
 
-## SPAs with Preact, Svelte, Vue, Choo
+## SPAs with Preact, Svelte, Vue
 
 - ★ RSS client, React/Redux: https://github.com/getstream/winds/, https://github.com/GetStream/Winds/blob/90d1b993e177ad613e828000f285a3900053c84d/app/src/components/Header.js
 - Webtorrent Desktop: https://github.com/feross/webtorrent-desktop
@@ -72,6 +72,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - ★ https://github.com/ryanmcdermott/clean-code-javascript
 - Transliteration (Iuliia → Юлия) https://antonz.ru/iuliia/
 - Web Component example (Lighthouse score in footer): https://www.zachleat.com/web/lighthouse-in-footer/
+- Modal dialog component https://filamentgroup.github.io/fg-modal/demo/
 
 ### Svelte
 
@@ -218,3 +219,9 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - Remove background from image (obtravit') automatically: https://www.remove.bg/
 - Avatar generator: https://getavataaars.com/
 - Landing rules: https://gist.github.com/ai/e3683b03ba936ade91d33dbc721cd6d8
+
+## Statistics
+
+- umami https://umami.is/docs/install
+- matomo https://matomo.org/
+- goatcounter https://www.goatcounter.com/
