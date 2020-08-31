@@ -225,3 +225,4 @@ https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a620264934
 - umami https://umami.is/docs/install
 - matomo https://matomo.org/
 - goatcounter https://www.goatcounter.com/
+- goaccess parse nginx apache logs https://goaccess.io/
