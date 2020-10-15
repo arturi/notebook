@@ -74,6 +74,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Transliteration (Iuliia → Юлия) https://antonz.ru/iuliia/
 - Web Component example (Lighthouse score in footer): https://www.zachleat.com/web/lighthouse-in-footer/
 - Modal dialog component https://filamentgroup.github.io/fg-modal/demo/
+- Simple crypto in browser: https://github.com/logux/client/blob/next/encrypt-actions/index.js
 
 ### Svelte
 
