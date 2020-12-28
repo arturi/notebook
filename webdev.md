@@ -175,6 +175,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - Add typograph to Wordpress: http://dmitryshishkin.ru/all/tipograf-na-sayt/
 - Duplicator for moving between hosts: https://wordpress.org/plugins/duplicator/
 - EDD Yandex.Kassa plugin: https://sheensay.ru/edd-yandex-kassa
+- Serve PHP hosts from MacOS: https://laravel.com/docs/8.x/valet Valet is a Laravel development environment for macOS minimalists. Laravel Valet configures your Mac to always run Nginx in the background when your machine starts. Then, using DnsMasq, Valet proxies all requests on the *.test domain to point to sites installed on your local machine, uses 7 MB of RAM.
 
 ## Accessibility
 
