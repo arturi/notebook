@@ -144,6 +144,7 @@ http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 - A fun generator for CSS-only section separators: https://wweb.dev/resources/css-separator-generator
 - Show specific img only in dark mode: https://mobile.twitter.com/flaviocopes/status/1254690503863525376
 - Responsive images, srcset: https://cloudfour.com/thinks/responsive-images-the-simple-way/
+- Scroll Snap: 1. `scroll-snap-type` on parent, 2. `scroll-snap-align` on children https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type, https://mobile.twitter.com/stackblitz/status/1343542443531247617
 
 ## SVG
 
